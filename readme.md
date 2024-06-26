@@ -1,4 +1,4 @@
-# Duplo Assessment
+#  Assessment
 ****************************************************************
 
 This repo contains e2e tests for a portion on Saucedemo website written in Cypress with Typescript
